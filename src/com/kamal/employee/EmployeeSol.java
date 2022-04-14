@@ -7,7 +7,7 @@ public class EmployeeSol {
         Employee e3 = new Employee("John", 1999, "26B- WallsStreet");
         System.out.println("Name\tYear\tAddress");
         System.out.println(e1.getName()+"\t"+e1.getYear()+"\t"+e1.getAddress());  // printing details of employee 1
-        System.out.println(e2.getName()+"\t"+e2.getYear()+"\t"+e2.getAddress());  // printing details of employee 2
+        System.out.println(e2.getName()+"\t\t"+e2.getYear()+"\t"+e2.getAddress());  // printing details of employee 2
         System.out.println(e3.getName()+"\t"+e3.getYear()+"\t"+e3.getAddress());  // printing details of employee 3
     }
 }
