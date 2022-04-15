@@ -1,4 +1,4 @@
-package com.kamal.employee;
+package com.kamal.Task62;
 
 class Employee{
     private String name, address;

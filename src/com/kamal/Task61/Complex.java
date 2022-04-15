@@ -1,4 +1,4 @@
-package com.kamal.complex;
+package com.kamal.Task61;
 
 public class Complex {
     int real = 0;

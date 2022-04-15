@@ -1,4 +1,4 @@
-package com.kamal.employee;
+package com.kamal.Task62;
 
 public class EmployeeSol {
     public static void main(String[] args){
